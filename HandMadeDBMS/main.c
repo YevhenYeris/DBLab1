@@ -5,8 +5,8 @@
 int main()
 {
 	Init();
-	Clear_M();
-	Clear_S();
+	//Clear_M();
+	//Clear_S();
 
 	while (1)
 	{
